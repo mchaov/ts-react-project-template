@@ -1,3 +1,5 @@
 import "./index.less";
 
-export function init() { }
+export function init() {
+    return 1
+}
